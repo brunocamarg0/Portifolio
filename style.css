@@ -138,11 +138,11 @@ section {
 }
 
 .slide1 {
-  background-image: url('imagens/IMG13.avif'); /* substitua pelo caminho da 1ª imagem */
+  background-image: url('IMG13.avif'); /* substitua pelo caminho da 1ª imagem */
 }
 
 .slide2 {
-  background-image: url('imagens/IMG14.avif'); /* substitua pelo caminho da 2ª imagem */
+  background-image: url('IMG14.avif'); /* substitua pelo caminho da 2ª imagem */
 }
 
 .overlay {
